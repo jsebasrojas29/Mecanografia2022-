@@ -7,9 +7,8 @@ _Learn to type fast on the computer while having fun. This exciting educational 
 ### Table of Contents
 
 1. [Config-environment](#Config-environment)
-2. [Studio Ghibli Tracker Flowchart](#flowchart)
-3. [Deploy](#deployed)
-4. [Acknowledgements](#acknowledgements)
+2. [Deploy](#deployed)
+3. [Acknowledgements](#acknowledgements)
 
 <img src="https://i.postimg.cc/2jsYPRZw/combo.png)](https://postimg.cc/QVJvTzS9" width="450" align="right" />
 
